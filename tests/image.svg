@@ -1,0 +1,7 @@
+<svg width="20cm" height="29.97cm" xmlns="http://www.w3.org/2000/svg">
+<!-- <polygon points="0,0 60,50 40,49 0,0" style="fill:black;" /> -->
+<!-- <polygon points="32.2,15.6 32.3,4.2 34.5,4.2 34.5,15.6 32.3,15.6" style="fill:black;" /> -->
+<line x1="3mm" x2="25mm" y1="1.8cm" y2="0.8cm" stroke-width="2pt" stroke="black" />
+<!-- <line x1="40" x2="10" y1="10" y2="40" stroke-width="3" stroke="black" />
+<line x1="0.1" x2="2.9" y1="1.5" y2="1.5" stroke-width="0.5" stroke="black" /> -->
+</svg>
